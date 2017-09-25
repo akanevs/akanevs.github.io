@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:alex.kanevsky.iam@gmail.com
+  email: alex.kanevsky.iam@gmail.com
   facebook:
   flickr:
   github: akanevs/Alex_Kanevsky
   instagram:
-  linkedin:https://www.linkedin.com/in/alex-kanevsky-b1921b6/
+  linkedin: https://www.linkedin.com/in/alex-kanevsky-b1921b6/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
